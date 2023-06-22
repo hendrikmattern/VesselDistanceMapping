@@ -1,0 +1,6 @@
+# general settings
+venv
+__pycache__
+.conda
+.idea
+.ipynb_checkpoints
